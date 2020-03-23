@@ -1,0 +1,1 @@
+export { diceMachine } from "./dice";
